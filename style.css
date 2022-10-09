@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+nav{
+    color: white;
+    
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: wavy;
+  }
+
+
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: xx-large;
+}
+ 
+body{
+    
+       
+       
+    
+}
+
+h2{
+    font-family: Roboto Slab;
+} 
+
+.container {
+    position: absolute;
+    margin: 0; 
+    width:100%; 
+    background: #f4f5f4;
+     min-height: 600px; }
+
+
+
+
+
+
+
+
+
+
+
+
